@@ -1,0 +1,22 @@
+<!DOCTYPE html><!--le faltaba la exclamacion al principio--><!--le faltaba la exclamacion al principio-->
+  <html>
+  <head>
+    <meta charset="utf-8"><!--se tenia que quitar kla barra-->
+    <meta name="description" content="Ejercicio HTML - Corrige los errores">
+ <title>Corrige los errores que encuentres en el documento</title><!--la frase estaba en mala posicion-->
+ </head><!--estaba intercambiado con el de abajo-->
+ <body>
+  
+ 
+
+  <h1>Aprender HTML es muy divertido</h1>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae quam optio nesciunt atque iure  animi dicta velit<p><!--paltaba poner la p-->
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae quam optio nesciunt atque iure  animi dicta velit</p>
+
+
+ 
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae quam optio nesciunt atque iure  animi dicta velit</p>
+ </body><!--estaba en mala posicion-->
+  </html><!--le faltaba una barra-->
